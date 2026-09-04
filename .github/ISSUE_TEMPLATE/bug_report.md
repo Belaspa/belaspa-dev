@@ -3,7 +3,7 @@ name: Bug report
 about: Plantilla para registrar errores técnicos o incidencias identificadas durante
   el desarrollo, pruebas o integración del proyecto BELASPA.
 title: "[BUG]"
-labels: bug
+labels: bug, historia-de-usuario
 assignees: ''
 type: Bug
 
